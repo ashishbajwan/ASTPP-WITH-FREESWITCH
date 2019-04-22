@@ -1,8 +1,8 @@
 # ASTPP-WITH-FREESWITCH
-Requirements :
+REQUIREMENTS :
 
-              1) CENTOS 7 WITH FRESH INSTALLATION
-              2) SCRIPT ./INSTALL
+              1) Freshly installed CENTOS 7
+              2) Script ./install.sh
 
 STEPS :
 
