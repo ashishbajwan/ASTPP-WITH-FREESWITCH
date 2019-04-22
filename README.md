@@ -4,7 +4,7 @@ Requirements :
               1) CENTOS 7 WITH FRESH INSTALLATION
               2) SCRIPT ./INSTALL
 
-Steps :
+STEPS :
 
       1) Download the script install.sh from here 
                                 or 
