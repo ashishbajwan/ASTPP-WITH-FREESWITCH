@@ -7,8 +7,8 @@ Requirements :
 Steps :
 
       1) Download the script install.sh from here 
-      or 
-      wget --no-check-certificate http://bit.do/astpp36-installation -O install.sh
+                                or 
+           wget --no-check-certificate http://bit.do/astpp36-installation -O install.sh
       
       2) chmod +x install.sh
       
